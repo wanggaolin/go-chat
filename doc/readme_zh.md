@@ -1,6 +1,6 @@
 #### LANGUAGE
-[English](https://github.com/wanggaolin/go-fileHttp#readme)
-[中文](https://github.com/wanggaolin/go-fileHttp/blob/master/doc/readme_zh.md)
+[English](https://github.com/wanggaolin/go-chat/blob/master/doc/readme_en.md)
+[中文](https://github.com/wanggaolin/go-chat/blob/master/doc/readme_zh.md)
 
 #### 简介
 基于golang开发仿微信在线websocket聊天工具
