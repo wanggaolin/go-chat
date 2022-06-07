@@ -1,0 +1,4 @@
+ERROR_LOG: error.log
+ACCESS_LOG: access.log
+LISTEN: 127.0.0.1:9191
+SOCKET: 127.0.0.1:9192
